@@ -18,7 +18,7 @@
 
 Building a production ML pipeline from scratch requires expertise across **6 distinct disciplines**: data engineering, statistical analysis, feature engineering, model selection, hyperparameter optimization, and model evaluation.
 
-Without AutoML:
+Without MLFoundry:
 ```
 Analyst uploads CSV → 3 weeks of work → trained model
 ```
