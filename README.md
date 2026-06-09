@@ -208,24 +208,7 @@ MLFoundry/
         └── hooks/        # useTrainingStatus polling hook
 ```
 
----
 
-## Roadmap
-
-**V2**
-- [ ] PostgreSQL + S3 storage
-- [ ] WebSocket training progress (replace polling)
-- [ ] LightGBM + CatBoost in model registry
-- [ ] Multi-user authentication
-- [ ] Neural network support (PyTorch tabular)
-
-**V3**
-- [ ] LLM dataset assistant (natural language EDA)
-- [ ] Time-series forecasting support
-- [ ] Model drift detection
-- [ ] Automated feature engineering
-
----
 
 ## References
 
