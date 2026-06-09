@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.env
+
+# Storage (user data — never commit)
+backend/storage/uploads/
+backend/storage/sessions/
+backend/storage/models/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Mac
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
