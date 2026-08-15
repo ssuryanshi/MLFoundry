@@ -207,7 +207,7 @@ MLFoundry/
         ├── store/        # Zustand session store
         └── hooks/        # useTrainingStatus polling hook
 ```
-
+## Live Demo: https://main.d355u6bb9c0vy6.amplifyapp.com
 
 
 ## References
